@@ -1,0 +1,8 @@
+{
+  "name": "Rdbt Client",
+  "creator": "rdbt",
+  "description": "github.com/RdbtClient/RdbtClient",
+  "version": "4.4.5",
+  "entry": "loader.js",
+  "requires": ["Bloomcore", "FontLib", "RenderLib", "WebSocket", "requestV2", "ClientSideChat", "Async"]
+}
